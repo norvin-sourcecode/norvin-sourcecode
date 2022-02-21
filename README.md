@@ -3,9 +3,8 @@
 
 - 🔭 I’m currently working on [an ourbook(s) react-native-app](https://github.com/norvin-sourcecode/ourbook-react-native-app)
 
-- 📫 How to reach me **norvin_klinkmann@protonmail.com**
-
 <h3 align="left">Connect with me:</h3>
+**norvin_klinkmann@protonmail.com**
 <p align="left">
 </p>
 
