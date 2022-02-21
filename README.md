@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Norvin K.</h1>
 <h3 align="center">A developer from Berlin, Germany</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=norvin-sourcecode&show_icons=true&locale=en" alt="norvin-sourcecode" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=norvin-sourcecode&show_icons=true&locale=en&layout=compact" alt="norvin-sourcecode" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=norvin-sourcecode&show_icons=true&locale=en" alt="norvin-sourcecode" /></p>
 
 
 
