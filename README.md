@@ -15,6 +15,4 @@
 <p align="left">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=norvin-sourcecode&show_icons=true&locale=en" alt="norvin-sourcecode" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=norvin-sourcecode&" alt="norvin-sourcecode" /></p>
