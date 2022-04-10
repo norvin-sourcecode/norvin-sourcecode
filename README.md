@@ -16,3 +16,5 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=norvin-sourcecode&" alt="norvin-sourcecode" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=norvin-sourcecode)](https://github.com/norvin-sourcecode/github-readme-stats)
