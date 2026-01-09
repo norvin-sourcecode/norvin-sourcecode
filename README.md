@@ -8,9 +8,9 @@
   
 - **https://stackoverflow.com/users/18270334/norvin-sourcecode?tab=profile**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me via pm</h3>
 
-- **norvin_klinkmann@protonmail.com**
+
 
 <p align="left">
 </p>
